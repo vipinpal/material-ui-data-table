@@ -1,0 +1,27 @@
+{
+  "name": "material-ui-data-table",
+  "version": "0.0.1",
+  "description": "materil-ui-data-table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipinpal/material-ui-data-table.git"
+  },
+  "keywords": [
+    "material-ui",
+    "data-table",
+    "table"
+  ],
+  "author": "vip1509ku@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipinpal/material-ui-data-table/issues"
+  },
+  "homepage": "https://github.com/vipinpal/material-ui-data-table#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.1.0"
+  }
+}
